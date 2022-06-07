@@ -13,3 +13,4 @@
 - https://eduhire.net/ 
 - https://venturenode.xyz/ 
 - https://chainactivity.net/
+- https://adrien.vc/
