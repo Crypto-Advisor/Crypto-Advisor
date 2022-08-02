@@ -10,10 +10,19 @@
 <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-advisor&langs_count=8&layout=compact&card_width=495px&border_radius=20px&show_icons=true&theme=" alt="beautiful-github-profile-hi-with-handshake"/>
 
 **Projects**
-- stablemask.com (in progress) - stablecoin based metamask competitor
-- wingman.com (in progress) - get feedback on photos before posting them on social media
-- tiktokphone.com (in progress) - web based remote android phone subscription platform
-- https://eduhire.net/ 
+
+*Future Projects*
+- stablemask.com - stablecoin based metamask competitor
+
+*In progress*
+- hulio - solana dapp tutorial rewards extension 
+- navdata - (in progress with 2 full time developers) alternative data subscription platform
+- muse tech - (in progress) music NFT playlist platform
+
+*Completed*
+- tiktokphone.com (completed not public yet) - web based remote android phone subscription platform
+- [Muse Discover](https://muse-discover-app.herokuapp.com/)
 - https://venturenode.xyz/ 
+- https://eduhire.net/ 
 - https://chainactivity.net/
 - https://adrien.vc/
