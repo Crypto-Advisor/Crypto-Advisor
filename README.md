@@ -22,6 +22,7 @@
 *Completed*
 - tiktokphone.com (completed not public yet) - web based remote android phone subscription platform
 - [Muse Discover](https://muse-discover-app.herokuapp.com/)
+- [SolSign - Sign Solana Messages](https://sign.adrien.vc/)
 - https://venturenode.xyz/ 
 - https://eduhire.net/ 
 - https://chainactivity.net/
