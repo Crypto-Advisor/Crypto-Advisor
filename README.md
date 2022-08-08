@@ -16,7 +16,7 @@
 
 *In progress*
 - hulio - solana dapp tutorial rewards extension 
-- navdata - (in progress with 2 full time developers) alternative data subscription platform
+- https://tickertrends.io - (in progress with 2 full time developers) alternative data subscription platform
 - muse tech - (in progress) music NFT playlist platform
 
 *Completed*
