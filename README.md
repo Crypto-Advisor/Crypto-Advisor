@@ -15,7 +15,7 @@
 - stablemask.com - stablecoin based metamask competitor
 
 *In progress*
-- hulio - solana dapp tutorial rewards extension 
+- https://hulio.app/ - solana dapp tutorial rewards extension 
 - https://tickertrends.io - (in progress with 2 full time developers) alternative data subscription platform
 - muse tech - (in progress) music NFT playlist platform
 
