@@ -27,3 +27,4 @@
 - https://eduhire.net/ 
 - https://chainactivity.net/
 - https://adrien.vc/
+- https://picnic.vip/
