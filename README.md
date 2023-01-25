@@ -24,6 +24,7 @@
 - [Muse Discover](https://muse-discover-app.herokuapp.com/)
 - [SolSign - Sign Solana Messages](https://sign.adrien.vc/)
 - https://venturenode.xyz/ 
+- https://academic-weapon.org/ - OPENAI homework solver, takes an image and gives an AI generated response
 - https://eduhire.net/ 
 - https://chainactivity.net/
 - https://adrien.vc/
