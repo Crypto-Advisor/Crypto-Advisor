@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crypto-Advisor
-- 👀 I’m interested in blockchain, finance, software development, venture capital.
-- 🌱 I’m currently learning wasm (rust, golang) based web development.
+- 👀 I’m interested in computer vision, blockchain, finance, software development, venture capital.
+- 🌱 I’m currently learning how to use transformers in computer vision.
 - 💞️ I’m looking to collaborate on redesigning how dapps are interacted with through web3 js.
 - 📫 How to reach me @Crypto_advisor on telegram.
 <!--
