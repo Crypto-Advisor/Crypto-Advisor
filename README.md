@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Crypto-Advisor
 - 👀 I’m interested in computer vision, blockchain, finance, software development, venture capital.
 - 🌱 I’m currently learning how to use transformers in computer vision.
-- 💞️ I’m looking to collaborate on redesigning how dapps are interacted with through web3 js.
 - 📫 How to reach me @Crypto_advisor on telegram.
 <!--
 <img align="left" alt="awesome-github-profile" src="https://github-readme-stats.vercel.app/api?username=crypto-advisor&layout=demo&border_radius=15px&show_icons=true&theme="/> 
@@ -15,11 +14,10 @@
 - stablemask.com - stablecoin based metamask competitor
 
 *In progress*
-- https://hulio.app/ - solana dapp tutorial rewards extension 
-- muse tech - (in progress) music NFT playlist platform
+- TickerTrends 
 
 *Launched*
-- https://tickertrends.io - (in progress with 2 full time developers) alternative data subscription platform
+- https://tickertrends.io 
 - tiktokphone.com (completed not public yet) - web based remote android phone subscription platform
 - [Muse Discover](https://muse-discover-app.herokuapp.com/)
 - [SolSign - Sign Solana Messages](https://sign.adrien.vc/)
