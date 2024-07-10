@@ -28,4 +28,3 @@
 - https://adrien.vc/
 - https://picnic.vip/
 - TikTok + Reddit Scraper
-- "Rizz Score" OpenAI pickup line rating 
